@@ -53,5 +53,3 @@ Best performing model achieved high accuracy on test data after comparing all 6 
 - Deploy as a web app using Streamlit
 - Add live match prediction using real-time data
 
-## 📬 Connect with me
-Feel free to connect with me on LinkedIn!
